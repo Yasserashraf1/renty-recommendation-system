@@ -1,0 +1,7 @@
+[theme]
+# Renty Brand Colors
+primaryColor       = "#2DD4BF"
+backgroundColor    = "#0a1628"
+secondaryBackgroundColor = "#0d1f3c"
+textColor          = "#e2f8f5"
+font               = "sans serif"
